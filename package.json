@@ -1,0 +1,23 @@
+{
+  "dependencies": {
+    "upper-case": "^2.0.2"
+  },
+  "name": "xixellonjat",
+  "version": "1.0.0",
+  "main": "opa.js",
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/MuhammedSmani/Xixellonjat.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/MuhammedSmani/Xixellonjat/issues"
+  },
+  "homepage": "https://github.com/MuhammedSmani/Xixellonjat#readme",
+  "description": ""
+}
