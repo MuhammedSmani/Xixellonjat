@@ -1,12 +1,12 @@
 {
-  "dependencies": {
-    "upper-case": "^2.0.2"
-<<<<<<< HEAD
-  },
   "name": "xixellonjat",
   "version": "1.0.0",
-  "main": "opa.js",
-  "devDependencies": {},
+  "description": "",
+  "main": "index.js",
+  "dependencies": {
+    "tslib": "^2.4.0",
+    "upper-case": "^2.0.2"
+  },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
   },
@@ -19,9 +19,5 @@
   "bugs": {
     "url": "https://github.com/MuhammedSmani/Xixellonjat/issues"
   },
-  "homepage": "https://github.com/MuhammedSmani/Xixellonjat#readme",
-  "description": ""
-=======
-  }
->>>>>>> 11cd61524ac3317b171d005c90d14055371c092c
+  "homepage": "https://github.com/MuhammedSmani/Xixellonjat#readme"
 }
