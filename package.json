@@ -1,6 +1,7 @@
 {
   "dependencies": {
     "upper-case": "^2.0.2"
+<<<<<<< HEAD
   },
   "name": "xixellonjat",
   "version": "1.0.0",
@@ -20,4 +21,7 @@
   },
   "homepage": "https://github.com/MuhammedSmani/Xixellonjat#readme",
   "description": ""
+=======
+  }
+>>>>>>> 11cd61524ac3317b171d005c90d14055371c092c
 }
