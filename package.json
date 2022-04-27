@@ -3,6 +3,11 @@
   "version": "1.0.0",
   "main": "index.js",
   "dependencies": {
+    "dot-case": "^3.0.4",
+    "is-lower-case": "^2.0.2",
+    "is-upper-case": "^2.0.2",
+    "lower-case": "^2.0.2",
+    "no-case": "^3.0.4",
     "snake-case": "^3.0.4",
     "tslib": "^2.4.0",
     "upper-case": "^2.0.2"
