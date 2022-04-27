@@ -1,7 +1,6 @@
 {
-  "name": "xixellonjat",
+  "name": "clear",
   "version": "1.0.0",
-  "description": "",
   "main": "index.js",
   "dependencies": {
     "snake-case": "^3.0.4",
@@ -20,5 +19,6 @@
   "bugs": {
     "url": "https://github.com/MuhammedSmani/Xixellonjat/issues"
   },
-  "homepage": "https://github.com/MuhammedSmani/Xixellonjat#readme"
+  "homepage": "https://github.com/MuhammedSmani/Xixellonjat#readme",
+  "description": ""
 }
