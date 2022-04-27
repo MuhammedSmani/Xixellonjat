@@ -4,6 +4,7 @@
   "description": "",
   "main": "index.js",
   "dependencies": {
+    "snake-case": "^3.0.4",
     "tslib": "^2.4.0",
     "upper-case": "^2.0.2"
   },

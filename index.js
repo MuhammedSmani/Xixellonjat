@@ -1,4 +1,4 @@
 
-let uc = require("upper-case");
+let uc = require("snake-case");
 
-console.log(uc.upperCase("i hate uppercase"));
+console.log(uc.snakeCase("i hate uppercase"));
