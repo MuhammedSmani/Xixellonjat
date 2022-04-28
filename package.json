@@ -10,7 +10,8 @@
     "no-case": "^3.0.4",
     "snake-case": "^3.0.4",
     "tslib": "^2.4.0",
-    "upper-case": "^2.0.2"
+    "upper-case": "^2.0.2",
+    "upper-case-first": "^2.0.2"
   },
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
