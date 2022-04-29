@@ -1,84 +1,27 @@
+// let a = 3;
+// let b = 5;
+// let c = 13;
+// let d = 59;
 
+// function mbledhja(num1,num2){
+//     return num1 + num2;
+// }
 
-// var a = 2
-/*let b = 3;
-const c = 4;
+// let shuma1 = mbledhja(a,b); 
+// console.log(shuma1)
 
-let f = 5
+// let shuma2 = mbledhja(c,d); 
+// console.log(shuma2);
 
- if(true){
-    console.log(f);
-}
-
-console.log(f);
-
-let d; // defined with undifined value
-
-console.log(d); */
-
-// var a = 2;
-// var a = 3;
-// var a = 4;
-// var a = 5;
-
-// console.log(a);
-
-
-
-// console.log("2" - 2);
-
-// + - * ( ) / = 
-
-// console.log(2 == "2");
-// console.log(2 === "2");
-
-
-
-// console.log((2 + 2) * 2);
-
-/* const a = "test";
-
-const b = "test";
-
-console.log(null === "null");
- */
-
-
-
-/* let c = true;
-
-console.log(c === "true");  */
-
-
-// let testmukki = "test";
-
-// let testMukki = "test1"; RIGH WAY
 
 let a = 3;
+let b = 5;
+let c = 13;
 
-if(a !== 2){
-    console.log(a);
-} else if (a == 3) {
-    console.log("sakt");
-}
-else{
-    console.log("gabim");
+function kikiriki(kiki,riki,kikiriki){
+    return kiki+riki+kikiriki;
 }
 
-if(a !== 3){
-    console.log(a);
-} else if (a == 3) {
-    console.log("sakt");
-}
-else{
-    console.log("gabim");
-}
+console.log(kikiriki(a,b,c));
 
-if(a !== 3){
-    console.log(a);
-} else if (a == 2) {
-    console.log("sakt");
-}
-else{
-    console.log("gabim");
-}
+()=>{}
