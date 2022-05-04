@@ -27,20 +27,20 @@
 
 
 
-let lista = ['otorinolaringolog', 7, ()=>{}, [2, '5']];
+// let lista = ['otorinolaringolog', 7, ()=>{}, [2, '5']];
 
-// console.log(lista);
+// // console.log(lista);
 
-// console.log(lista[3][1]);
+// // console.log(lista[3][1]);
 
-let student1={id:1,emri:"Muhammed",mbiemri:"Smani"};
-let student2={id:2,emri:"Nuri",mbiemri:"Xhezairi"};
+// let student1={id:1,emri:"Muhammed",mbiemri:"Smani"};
+// let student2={id:2,emri:"Nuri",mbiemri:"Xhezairi"};
 
-// console.log(student1.emri);
+// // console.log(student1.emri);
 
- let students = [
-     {id:1,emri:"Muhammed",mbiemri:"Smani"}, //0
-     {id:2,emri:"Nuri",mbiemri:"Xhezairi"} // 1
-    ];
+//  let students = [
+//      {id:1,emri:"Muhammed",mbiemri:"Smani"}, //0
+//      {id:2,emri:"Nuri",mbiemri:"Xhezairi"} // 1
+//     ];
 
-console.log(students[0].mbiemri);
+// console.log(students[0].mbiemri);
