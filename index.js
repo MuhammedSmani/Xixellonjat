@@ -44,3 +44,60 @@
 //     ];
 
 // console.log(students[0].mbiemri);
+
+
+
+
+
+// for (let index = 0; index < array.length; index++) {
+//     const element = array[index];
+    
+// }
+
+const arr = ["a", "b", "c"]
+
+// for (const key in arr) {
+//     console.log(arr[key]);
+// }
+
+// for (const i in arr1) {
+//     for (const x in arr2) {
+//         if (arr1[i] === arr2[x] {
+//     }
+//     }
+// }
+
+// for (const key of arr) {
+//     console.log(key);
+// }
+
+const obj = [{
+    name: "Mukki",
+    age: "20",
+},
+{
+    name: "Rea",
+    age: "21"
+},
+{
+    name: "Kiselin",
+    age: "22"
+},
+{
+    name: "Kungullesh",
+    age: "23"
+}];
+
+// console.log(Object.keys(obj));
+
+for (const key of obj) {
+    key.name = key.name + "1";
+    key.age = key.age + "1";
+    console.log(key.name);
+    const keys = Object.keys(key);
+    // // console.log(keys);
+    for(let i of keys) {    
+        console.log(i);
+        key[i] = key[1] + "1";
+    }
+}
