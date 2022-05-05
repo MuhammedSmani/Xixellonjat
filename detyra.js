@@ -49,9 +49,9 @@ let users = [{
 
 console.log(users[2]);
 
-for (let user of users) {
+// for (let user of users) {
     
-}
+// }
 
 for(let user of users){
     // console.log(upperCase.upperCase(user.name));
