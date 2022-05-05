@@ -1,8 +1,8 @@
-let det = require("upper-case");
+let upperCase = require("upper-case");
 
 let users = [{
     name: "Muhammed",
-    surname: "Smani",
+    lastName: "Smani",
     age: "20",
     city:{
         name: "Prizren",
@@ -11,7 +11,7 @@ let users = [{
 },
 {
     name: "Rea",
-    surname: "Krasniqi",
+    lastName: "Krasniqi",
     age: "21",
     city:{
         name: "Prizren",
@@ -20,7 +20,7 @@ let users = [{
 },
 {
     name: "Filan",
-    surname: "Fisteki",
+    lastName: "Fisteki",
     age: "20",
     city:{
         name: "Prishtin",
@@ -30,7 +30,7 @@ let users = [{
 },
 {
     name: "Kërcyll",
-    surname: "Kërcyesi",
+    lastName: "Kërcyesi",
     age: "18",
     city:{
         name: "Prizren",
@@ -39,7 +39,7 @@ let users = [{
 },
 {
     name: "Istog",
-    surname: "Peja",
+    lastName: "Peja",
     age: "24",
     city:{
         name: "Gjakovë",
@@ -49,6 +49,12 @@ let users = [{
 
 console.log(users[2]);
 
-for(let i of users){
-    console.log(det.upperCase(i.name));
+for (let user of users) {
+    
 }
+
+for(let user of users){
+    // console.log(upperCase.upperCase(user.name));
+    user.name = upperCase.upperCase(user.name);
+}
+console.log(users);
