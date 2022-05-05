@@ -50,11 +50,17 @@ let users = [{
 console.log(users[2]);
 
 // for (let user of users) {
-    
+//     console.log(users[2]);
 // }
 
 for(let user of users){
     // console.log(upperCase.upperCase(user.name));
     user.name = upperCase.upperCase(user.name);
 }
-console.log(users);
+console.log(users)
+
+// for (let user of users) {
+//     if (user.city.name) {
+//         user.city.name = upperCase.upperCase(user.city.name);
+//     }
+// }
